@@ -19,9 +19,6 @@ TP computacion applicada
   - **Puerta de enlace:** `192.168.18.1`
   - Configuración DNS: `8.8.8.8`, `8.8.4.4`.
 
-## Diagrama topológico
-El diagrama de la infraestructura armada se encuentra en el archivo `diagrama_topologia.png`.
-
 ## Instrucciones para reproducir
 1. Descargar y descomprimir los archivos comprimidos en sus respectivas ubicaciones:
    - `/root`
